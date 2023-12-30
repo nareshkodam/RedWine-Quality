@@ -1,3 +1,6 @@
 # redwinequality
 This is my second Git Repository.
-Auther - Naresh Kumar Kodam
+<br>
+Author - Naresh Kumar Kodam
+<br>
+This is my self motivated repository.
