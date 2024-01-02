@@ -1,6 +1,5 @@
-# redwinequality
+# RedWineQuality
 This is my second Git Repository.
-<br>
-Author - Naresh Kodam (My Own)
-<br>
-This is my self motivated repository.
+# RedWine-Quality-Model
+My First ML Model: To predict the average rating of a given book.
+This is my self motivated repository
